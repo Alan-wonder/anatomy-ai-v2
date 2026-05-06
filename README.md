@@ -47,7 +47,7 @@ netlify dev
 5. 在 Environment variables 中配置：
    - `DEEPSEEK_API_KEY`
    - `SILICONFLOW_API_KEY`
-   - `QWEN_API_KEY`
+   - `DASHSCOPE_API_KEY`
 
 ## 📁 项目结构
 
